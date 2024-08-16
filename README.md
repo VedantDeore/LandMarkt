@@ -59,9 +59,9 @@ Usage
   <li><b>Generate Legal Documents:</b> Use the 'Legal Documentation' feature to create PDFs of property details for contracts and agreements.</li>
 </ul>
 Screenshots
-<p> ![image](https://github.com/user-attachments/assets/59fdffbc-fe64-4f83-8ee7-c8c86839e2f1)
-        ![image](https://github.com/user-attachments/assets/6ce6ae55-045b-4569-9e7b-15c460994a5d)
-![image](https://github.com/user-attachments/assets/08414dd2-23e3-4696-ae80-57a56a863d60)
+<p> (https://github.com/user-attachments/assets/59fdffbc-fe64-4f83-8ee7-c8c86839e2f1)
+        (https://github.com/user-attachments/assets/6ce6ae55-045b-4569-9e7b-15c460994a5d)
+(https://github.com/user-attachments/assets/08414dd2-23e3-4696-ae80-57a56a863d60)
 
 </p>
 Contributing

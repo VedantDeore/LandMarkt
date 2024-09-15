@@ -58,8 +58,15 @@ Usage
   <li><b>Compare Properties:</b> Select multiple properties to compare their details side by side.</li>
   <li><b>Generate Legal Documents:</b> Use the 'Legal Documentation' feature to create PDFs of property details for contracts and agreements.</li>
 </ul>
-Screenshots
-https://github-production-user-asset-6210df.s3.amazonaws.com/126149988/357071940-59fdffbc-fe64-4f83-8ee7-c8c86839e2f1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240915%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240915T181836Z&X-Amz-Expires=300&X-Amz-Signature=0c4f15a699b1958f3037a787c7a1e3a9e9e2ac3152662dd0b6291280620a53da&X-Amz-SignedHeaders=host&actor_id=126149988&key_id=0&repo_id=841099315
+
+## Screenshots
+
+![Screenshot](Screenshots/357071940-59fdffbc-fe64-4f83-8ee7-c8c86839e2f1.png) <br>
+![Screenshot](Screenshots/357072027-6ce6ae55-045b-4569-9e7b-15c460994a5d.png) <br>
+![Screenshot](Screenshots/357072071-08414dd2-23e3-4696-ae80-57a56a863d60.png)
+
+
+
 Contributing
 <p>We welcome contributions to LandMarkt! To contribute:</p>
 <ol>

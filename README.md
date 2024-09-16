@@ -1,4 +1,5 @@
-<span style="color:#2F4F4F;">LandMarkt</span>
+![Screenshot](https://github.com/VedantDeore/LandMarkt/blob/master/Screenshots/Screenshot%202024-09-16%20154413.png?raw=true) <br>
+
 LandMarkt is an innovative real estate platform that allows users to search for and post properties online. Whether you're looking to buy, sell, or rent, LandMarkt offers a user-friendly interface and powerful tools to help you navigate the real estate market.
 
 Features
